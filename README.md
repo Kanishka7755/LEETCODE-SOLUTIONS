@@ -7,6 +7,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
@@ -14,4 +15,12 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
