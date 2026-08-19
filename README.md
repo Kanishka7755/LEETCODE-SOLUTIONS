@@ -9,6 +9,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0009-palindrome-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
@@ -25,6 +26,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
