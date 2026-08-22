@@ -16,6 +16,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [2235-add-two-integers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
