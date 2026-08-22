@@ -9,6 +9,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0009-palindrome-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -20,6 +21,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
@@ -71,6 +73,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
