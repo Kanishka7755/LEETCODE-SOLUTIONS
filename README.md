@@ -28,6 +28,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 ## Recursion
@@ -44,6 +45,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0027-remove-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
