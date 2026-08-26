@@ -12,6 +12,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
@@ -37,6 +38,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +92,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +123,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
