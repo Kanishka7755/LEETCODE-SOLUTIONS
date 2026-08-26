@@ -16,6 +16,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
