@@ -56,6 +56,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -131,4 +132,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
