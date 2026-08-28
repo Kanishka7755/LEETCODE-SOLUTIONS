@@ -12,6 +12,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -83,6 +84,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -120,6 +122,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
