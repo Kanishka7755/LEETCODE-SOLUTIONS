@@ -19,6 +19,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1837-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
@@ -28,6 +29,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
@@ -60,6 +62,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -138,4 +141,12 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
