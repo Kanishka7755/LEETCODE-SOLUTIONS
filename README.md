@@ -51,6 +51,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
@@ -101,6 +102,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -154,4 +156,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
