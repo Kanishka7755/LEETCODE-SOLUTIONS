@@ -25,6 +25,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -67,6 +68,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
