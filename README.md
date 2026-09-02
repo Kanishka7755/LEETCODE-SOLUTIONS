@@ -113,12 +113,14 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0001-two-sum](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | ------- |
 | [0344-reverse-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,6 +161,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
