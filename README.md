@@ -57,6 +57,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -73,6 +74,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -112,6 +114,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
