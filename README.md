@@ -10,6 +10,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0069-sqrtx](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
