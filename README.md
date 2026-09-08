@@ -63,6 +63,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0162-find-peak-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -140,6 +141,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 ## Newton's Method
 |  |
