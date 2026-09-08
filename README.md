@@ -27,6 +27,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
