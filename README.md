@@ -144,6 +144,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0088-merge-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 ## Newton's Method
 |  |
 | ------- |
@@ -155,6 +156,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
@@ -185,4 +187,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
