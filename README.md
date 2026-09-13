@@ -193,4 +193,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
