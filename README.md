@@ -64,6 +64,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -126,6 +127,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0001-two-sum](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
