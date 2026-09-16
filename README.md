@@ -144,6 +144,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
@@ -156,6 +157,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
