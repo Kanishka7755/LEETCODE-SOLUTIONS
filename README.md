@@ -64,6 +64,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -172,6 +173,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Memoization
 |  |
@@ -207,4 +209,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
