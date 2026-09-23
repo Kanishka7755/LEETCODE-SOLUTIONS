@@ -79,6 +79,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
@@ -113,6 +114,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
@@ -155,6 +157,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
+| [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 ## Newton's Method
 |  |
 | ------- |
