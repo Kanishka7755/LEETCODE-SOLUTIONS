@@ -80,6 +80,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -159,6 +160,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 ## Newton's Method
 |  |
