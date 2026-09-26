@@ -70,6 +70,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0905-sort-array-by-parity](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -93,6 +94,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -159,6 +161,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0905-sort-array-by-parity](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
