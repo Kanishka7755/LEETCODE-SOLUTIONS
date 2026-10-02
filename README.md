@@ -63,6 +63,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0136-single-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
@@ -139,6 +140,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -210,6 +212,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
