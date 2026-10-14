@@ -7,6 +7,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
@@ -58,6 +59,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0027-remove-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
