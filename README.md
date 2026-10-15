@@ -87,6 +87,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -117,6 +118,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -148,6 +150,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting Sort
 |  |
@@ -241,4 +244,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
