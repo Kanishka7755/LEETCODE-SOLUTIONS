@@ -83,6 +83,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1652-defuse-the-bomb](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -126,6 +127,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
