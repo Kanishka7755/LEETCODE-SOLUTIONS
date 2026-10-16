@@ -185,6 +185,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
@@ -233,6 +234,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 ## Database
 |  |
@@ -250,4 +252,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
