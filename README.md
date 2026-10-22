@@ -85,6 +85,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
@@ -104,6 +105,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0922-sort-array-by-parity-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,6 +117,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0069-sqrtx](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
