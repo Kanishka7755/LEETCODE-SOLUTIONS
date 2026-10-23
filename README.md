@@ -178,6 +178,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
+| [1768-merge-strings-alternately](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
@@ -198,6 +199,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0680-valid-palindrome-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1108-defanging-an-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
