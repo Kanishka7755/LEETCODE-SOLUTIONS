@@ -108,6 +108,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0922-sort-array-by-parity-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
@@ -204,6 +205,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -266,4 +268,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
