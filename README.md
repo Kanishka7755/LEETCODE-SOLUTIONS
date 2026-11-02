@@ -187,6 +187,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Newton's Method
 |  |
 | ------- |
@@ -210,6 +211,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2409-count-days-spent-together) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
@@ -260,6 +262,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Indexed Tree
 |  |
 | ------- |
