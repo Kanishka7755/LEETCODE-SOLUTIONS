@@ -51,6 +51,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
@@ -283,6 +284,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
