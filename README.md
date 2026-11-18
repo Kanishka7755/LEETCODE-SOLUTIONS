@@ -137,6 +137,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | ------- |
 | [0258-add-digits](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
@@ -186,6 +187,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
@@ -209,6 +211,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
@@ -254,6 +257,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 ## Database
 |  |
