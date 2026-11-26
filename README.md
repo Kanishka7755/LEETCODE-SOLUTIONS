@@ -29,6 +29,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [2409-count-days-spent-together](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
+| [3360-stone-removal-game](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -141,6 +142,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 | [1920-build-array-from-permutation](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
