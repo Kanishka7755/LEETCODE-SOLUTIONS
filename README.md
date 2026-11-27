@@ -259,6 +259,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 ## Database
@@ -268,6 +269,7 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 ## Greedy
 |  |
@@ -295,4 +297,8 @@ TO SOLVE CODING QUESTIONS AND CONNECT WITH GITHUB
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanishka7755/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
